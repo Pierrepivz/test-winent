@@ -1,0 +1,14 @@
+<svg id="Composant_16_1" data-name="Composant 16 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="926.229" height="1944.955" viewBox="0 0 926.229 1944.955">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2eb7ff" stop-opacity="0.467"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.467"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.462" y1="0.908" x2="0.5" y2="-0.627" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffaf17" stop-opacity="0.435"/>
+      <stop offset="1" stop-color="#fc8a57"/>
+    </linearGradient>
+  </defs>
+  <path id="Tracé_864" data-name="Tracé 864" d="M8.726.009S-77,418.078,291.48,603.9,1088.1,727.986,796.056,1196.146.845,1924.184,5.995,1929.666,8.726.009,8.726.009Z" transform="matrix(-1, -0.017, 0.017, -1, 892.633, 1944.965)" fill="url(#linear-gradient)"/>
+  <path id="Tracé_865" data-name="Tracé 865" d="M368.993,678.883S297.143,974.5,608.343,1106.747s672.452,89.463,426.539,420.085-670.241,513.437-665.888,517.326S368.993,678.883,368.993,678.883Z" transform="translate(1237.574 2262.152) rotate(180)" fill="url(#linear-gradient-2)"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg id="Composant_37_1" data-name="Composant 37 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="496.67" height="460.362" viewBox="0 0 496.67 460.362">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.528" y1="0.263" x2="-0.274" y2="0.463" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2873c9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Rectangle_510" data-name="Rectangle 510" transform="translate(9.381 16.358)" stroke="#000" stroke-width="2" fill="url(#linear-gradient)">
+    <rect width="422" height="426" rx="211" stroke="none"/>
+    <rect x="1" y="1" width="420" height="424" rx="210" fill="none"/>
+  </g>
+  <path id="Tracé_1014" data-name="Tracé 1014" d="M0,0" transform="translate(0 449.891)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+  <g id="Tracé_1013" data-name="Tracé 1013" transform="translate(22.713 459.656) rotate(-178)" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22.251,8.9,0,0Z" stroke="none"/>
+    <path d="M 22.25127792358398 8.898599624633789 L -1.991882299989811e-06 -1.87683099284186e-07 L 22.25127792358398 8.898599624633789 Z" stroke="none" fill="#000"/>
+  </g>
+  <g id="Composant_26_1" data-name="Composant 26 – 1" transform="translate(46.695)">
+    <g id="Rectangle_510-2" data-name="Rectangle 510" fill="#fff" stroke="#000" stroke-width="3">
+      <rect width="422" height="426" rx="211" stroke="none"/>
+      <rect x="1.5" y="1.5" width="419" height="423" rx="209.5" fill="none"/>
+    </g>
+    <g id="Rectangle_511" data-name="Rectangle 511" transform="translate(63 64)" fill="#fff" stroke="#000" stroke-width="2">
+      <rect width="296" height="299" rx="148" stroke="none"/>
+      <rect x="1" y="1" width="294" height="297" rx="147" fill="none"/>
+    </g>
+    <g id="Rectangle_512" data-name="Rectangle 512" transform="translate(137 140)" fill="#fff" stroke="#000" stroke-width="2">
+      <rect width="148" height="148" rx="74" stroke="none"/>
+      <rect x="1" y="1" width="146" height="146" rx="73" fill="none"/>
+    </g>
+    <rect id="Rectangle_513" data-name="Rectangle 513" width="62" height="62" transform="translate(144 130)" fill="#fff"/>
+    <rect id="Rectangle_514" data-name="Rectangle 514" width="62" height="62" transform="translate(291 266)" fill="#fff"/>
+    <rect id="Rectangle_515" data-name="Rectangle 515" width="62" height="62" transform="translate(280 85)" fill="#fff"/>
+    <rect id="Rectangle_516" data-name="Rectangle 516" width="62" height="62" transform="translate(63 271)" fill="#fff"/>
+    <line id="Ligne_115" data-name="Ligne 115" x1="223" y1="219" transform="translate(211 214)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <path id="Tracé_1011" data-name="Tracé 1011" d="M-18923.328,1082.624l21.727,40.735,8.773-13.443-33.621-32.9Z" transform="translate(19327 -677)" stroke="#000" stroke-width="1"/>
+    <g id="Tracé_1013-2" data-name="Tracé 1013" transform="translate(232.316 237.843) rotate(-178)" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 26.63855171203613 27.89870262145996 L 6.172178268432617 19.71391105651855 L 18.08525848388672 7.181034088134766 L 26.63855171203613 27.89870262145996 Z" stroke="none"/>
+      <path d="M 17.91701507568359 8.083755493164062 L 7.042896270751953 19.52362442016602 L 25.72435760498047 26.99459648132324 L 17.91701507568359 8.083755493164062 M 18.25349807739258 6.278295516967773 L 27.55273818969727 28.80278587341309 L 5.301456451416016 19.90419769287109 L 18.25349807739258 6.278295516967773 Z" stroke="none" fill="#000"/>
+    </g>
+  </g>
+  <g id="Composant_36_1" data-name="Composant 36 – 1" transform="matrix(0.695, -0.719, 0.719, 0.695, 431.381, 408.782)">
+    <path id="Tracé_1081" data-name="Tracé 1081" d="M-21005.82,11621.785l-17.133,20.466v52.77l17.133-21.35Z" transform="translate(21022.953 -11621.785)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Tracé_1082" data-name="Tracé 1082" d="M-21005.82,11621.785l-17.133,20.466Z" transform="translate(21022.953 -11607.785)" fill="#fff" stroke="#000" stroke-width="1"/>
+    <path id="Tracé_1083" data-name="Tracé 1083" d="M-21005.82,11621.785l-17.133,20.466Z" transform="translate(21022.953 -11593.785)" fill="#fff" stroke="#000" stroke-width="1"/>
+  </g>
+</svg>
